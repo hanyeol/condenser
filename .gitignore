@@ -9,3 +9,6 @@ tmp/*
 app/assets/static/*.js
 app/assets/static/*.json
 .vagrant
+
+CLAUDE.md
+.claude
